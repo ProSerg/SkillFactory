@@ -1,3 +1,0 @@
-./02_otp_desc.csv filter=lfs diff=lfs merge=lfs -text
-./02_otp_test.csv filter=lfs diff=lfs merge=lfs -text
-./02_otp_train.csv filter=lfs diff=lfs merge=lfs -text
